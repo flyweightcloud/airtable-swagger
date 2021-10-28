@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/airtable-swagger/static/css/main.7e3f7f9f.chunk.css",
-    "main.js": "/airtable-swagger/static/js/main.06ab45b5.chunk.js",
-    "main.js.map": "/airtable-swagger/static/js/main.06ab45b5.chunk.js.map",
+    "main.js": "/airtable-swagger/static/js/main.a24b7805.chunk.js",
+    "main.js.map": "/airtable-swagger/static/js/main.a24b7805.chunk.js.map",
     "runtime-main.js": "/airtable-swagger/static/js/runtime-main.6bf8f7b7.js",
     "runtime-main.js.map": "/airtable-swagger/static/js/runtime-main.6bf8f7b7.js.map",
     "static/js/2.afb29122.chunk.js": "/airtable-swagger/static/js/2.afb29122.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6bf8f7b7.js",
     "static/js/2.afb29122.chunk.js",
     "static/css/main.7e3f7f9f.chunk.css",
-    "static/js/main.06ab45b5.chunk.js"
+    "static/js/main.a24b7805.chunk.js"
   ]
 }
