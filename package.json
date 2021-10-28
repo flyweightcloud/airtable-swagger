@@ -1,6 +1,6 @@
 {
   "name": "airtable-swagger-builder-ui",
-  "homepage": "/airtable-swagger-builder-ui",
+  "homepage": "/airtable-swagger",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
