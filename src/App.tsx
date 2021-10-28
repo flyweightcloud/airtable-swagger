@@ -30,17 +30,17 @@ function App() {
         <Form />
         <div style={documentStyle}>
           <h4>About</h4>
-          <p>This application converts Airtable tables to Swagger files which can be be used
-            to consume the Airtable API from the Microsoft Power Platform.
+          <p>This application converts your Airtable tables to Swagger files which can then be used
+            to consume the Airtable API directly from the Microsoft Power Platform.
           </p>
-          <h4>How to use the app</h4>
+          <h4>How to use this app</h4>
           <p>Start by visiting <a href='https://airtable.com/api' target='_blank' rel="noreferrer">https://airtable.com/api</a> in order to find your Airtable API URL.
             You will also need to provide your Airtable API key, which can be found in your 
             account page (<a href="https://airtable.com/account" target="_blank" rel="noreferrer">https://airtable.com/account</a>)
           </p>
           <p>
             Enter in the details above and click generate. The generated swagger file will be emailed to the email address you provided.
-            You can then import this file into your Power Platform project as a custom connector.
+            You can then import this file into your Power Platform project as a "Custom Connector".
           </p>
           <h4>Support</h4>
           <p>
