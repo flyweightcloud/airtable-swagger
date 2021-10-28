@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <img src='flyweight_logo_800.png' height='169' width='400'/>
+        <img src='flyweight_logo_800.png' height='127' width='300' alt="Flyweight Logo"/>
         <h1 style={{fontSize: FontSizes.size42, paddingBottom: "1em", paddingTop:"1em",}}>
           Airtable to Swagger Conversion
         </h1>
