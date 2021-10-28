@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/airtable-swagger-builder-ui/static/css/main.7e3f7f9f.chunk.css",
-    "main.js": "/airtable-swagger-builder-ui/static/js/main.06ab45b5.chunk.js",
-    "main.js.map": "/airtable-swagger-builder-ui/static/js/main.06ab45b5.chunk.js.map",
-    "runtime-main.js": "/airtable-swagger-builder-ui/static/js/runtime-main.a1ac7ba9.js",
-    "runtime-main.js.map": "/airtable-swagger-builder-ui/static/js/runtime-main.a1ac7ba9.js.map",
-    "static/js/2.afb29122.chunk.js": "/airtable-swagger-builder-ui/static/js/2.afb29122.chunk.js",
-    "static/js/2.afb29122.chunk.js.map": "/airtable-swagger-builder-ui/static/js/2.afb29122.chunk.js.map",
-    "static/js/3.28269c61.chunk.js": "/airtable-swagger-builder-ui/static/js/3.28269c61.chunk.js",
-    "static/js/3.28269c61.chunk.js.map": "/airtable-swagger-builder-ui/static/js/3.28269c61.chunk.js.map",
-    "index.html": "/airtable-swagger-builder-ui/index.html",
-    "static/css/main.7e3f7f9f.chunk.css.map": "/airtable-swagger-builder-ui/static/css/main.7e3f7f9f.chunk.css.map",
-    "static/js/2.afb29122.chunk.js.LICENSE.txt": "/airtable-swagger-builder-ui/static/js/2.afb29122.chunk.js.LICENSE.txt"
+    "main.css": "/airtable-swagger/static/css/main.7e3f7f9f.chunk.css",
+    "main.js": "/airtable-swagger/static/js/main.06ab45b5.chunk.js",
+    "main.js.map": "/airtable-swagger/static/js/main.06ab45b5.chunk.js.map",
+    "runtime-main.js": "/airtable-swagger/static/js/runtime-main.6bf8f7b7.js",
+    "runtime-main.js.map": "/airtable-swagger/static/js/runtime-main.6bf8f7b7.js.map",
+    "static/js/2.afb29122.chunk.js": "/airtable-swagger/static/js/2.afb29122.chunk.js",
+    "static/js/2.afb29122.chunk.js.map": "/airtable-swagger/static/js/2.afb29122.chunk.js.map",
+    "static/js/3.28269c61.chunk.js": "/airtable-swagger/static/js/3.28269c61.chunk.js",
+    "static/js/3.28269c61.chunk.js.map": "/airtable-swagger/static/js/3.28269c61.chunk.js.map",
+    "index.html": "/airtable-swagger/index.html",
+    "static/css/main.7e3f7f9f.chunk.css.map": "/airtable-swagger/static/css/main.7e3f7f9f.chunk.css.map",
+    "static/js/2.afb29122.chunk.js.LICENSE.txt": "/airtable-swagger/static/js/2.afb29122.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1ac7ba9.js",
+    "static/js/runtime-main.6bf8f7b7.js",
     "static/js/2.afb29122.chunk.js",
     "static/css/main.7e3f7f9f.chunk.css",
     "static/js/main.06ab45b5.chunk.js"
